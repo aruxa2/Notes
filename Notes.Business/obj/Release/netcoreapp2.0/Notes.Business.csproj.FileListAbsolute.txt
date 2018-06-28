@@ -1,0 +1,12 @@
+C:\work\github\Notes\Notes.Business\bin\Release\netcoreapp2.0\Notes.Business.deps.json
+C:\work\github\Notes\Notes.Business\bin\Release\netcoreapp2.0\Notes.Business.dll
+C:\work\github\Notes\Notes.Business\bin\Release\netcoreapp2.0\Notes.Business.pdb
+C:\work\github\Notes\Notes.Business\bin\Release\netcoreapp2.0\Notes.Data.dll
+C:\work\github\Notes\Notes.Business\bin\Release\netcoreapp2.0\Notes.Data.pdb
+C:\work\github\Notes\Notes.Business\obj\Release\netcoreapp2.0\Notes.Business.csprojResolveAssemblyReference.cache
+C:\work\github\Notes\Notes.Business\obj\Release\netcoreapp2.0\Notes.Business.csproj.CoreCompileInputs.cache
+C:\work\github\Notes\Notes.Business\obj\Release\netcoreapp2.0\Notes.Business.AssemblyInfoInputs.cache
+C:\work\github\Notes\Notes.Business\obj\Release\netcoreapp2.0\Notes.Business.AssemblyInfo.cs
+C:\work\github\Notes\Notes.Business\obj\Release\netcoreapp2.0\Notes.Business.csproj.CopyComplete
+C:\work\github\Notes\Notes.Business\obj\Release\netcoreapp2.0\Notes.Business.dll
+C:\work\github\Notes\Notes.Business\obj\Release\netcoreapp2.0\Notes.Business.pdb

@@ -1,0 +1,11 @@
+C:\work\github\Notes\Data\bin\Release\netcoreapp2.0\Notes.Data.deps.json
+C:\work\github\Notes\Data\bin\Release\netcoreapp2.0\Notes.Data.runtimeconfig.json
+C:\work\github\Notes\Data\bin\Release\netcoreapp2.0\Notes.Data.runtimeconfig.dev.json
+C:\work\github\Notes\Data\bin\Release\netcoreapp2.0\Notes.Data.dll
+C:\work\github\Notes\Data\bin\Release\netcoreapp2.0\Notes.Data.pdb
+C:\work\github\Notes\Data\obj\Release\netcoreapp2.0\Notes.Data.csprojResolveAssemblyReference.cache
+C:\work\github\Notes\Data\obj\Release\netcoreapp2.0\Notes.Data.csproj.CoreCompileInputs.cache
+C:\work\github\Notes\Data\obj\Release\netcoreapp2.0\Notes.Data.AssemblyInfoInputs.cache
+C:\work\github\Notes\Data\obj\Release\netcoreapp2.0\Notes.Data.AssemblyInfo.cs
+C:\work\github\Notes\Data\obj\Release\netcoreapp2.0\Notes.Data.dll
+C:\work\github\Notes\Data\obj\Release\netcoreapp2.0\Notes.Data.pdb

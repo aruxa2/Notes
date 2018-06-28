@@ -1,0 +1,11 @@
+C:\work\github\Notes\Notes.Web\bin\Debug\netcoreapp2.0\Notes.Web.deps.json
+C:\work\github\Notes\Notes.Web\bin\Debug\netcoreapp2.0\Notes.Web.runtimeconfig.json
+C:\work\github\Notes\Notes.Web\bin\Debug\netcoreapp2.0\Notes.Web.runtimeconfig.dev.json
+C:\work\github\Notes\Notes.Web\bin\Debug\netcoreapp2.0\Notes.Web.dll
+C:\work\github\Notes\Notes.Web\bin\Debug\netcoreapp2.0\Notes.Web.pdb
+C:\work\github\Notes\Notes.Web\obj\Debug\netcoreapp2.0\Notes.Web.csprojResolveAssemblyReference.cache
+C:\work\github\Notes\Notes.Web\obj\Debug\netcoreapp2.0\Notes.Web.csproj.CoreCompileInputs.cache
+C:\work\github\Notes\Notes.Web\obj\Debug\netcoreapp2.0\Notes.Web.AssemblyInfoInputs.cache
+C:\work\github\Notes\Notes.Web\obj\Debug\netcoreapp2.0\Notes.Web.AssemblyInfo.cs
+C:\work\github\Notes\Notes.Web\obj\Debug\netcoreapp2.0\Notes.Web.dll
+C:\work\github\Notes\Notes.Web\obj\Debug\netcoreapp2.0\Notes.Web.pdb
